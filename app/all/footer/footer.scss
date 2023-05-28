@@ -1,0 +1,30 @@
+.footer{
+    padding: 50px 0;
+}
+.footer_main {
+  text-align: center;
+  padding: 50px 0;
+  
+}
+.footer__copy{
+    display: flex;
+    align-items: center;
+}
+
+.author{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    color: #fff;
+    background-color: #000;
+    margin: 0 15px;
+}
